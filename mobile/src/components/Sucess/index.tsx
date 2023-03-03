@@ -9,11 +9,11 @@ import { styles } from './styles';
 export function Sucess() {
   return (
     <View style={styles.container}>
-      <Image source={sucessImg} style={styles.img} />
+      <Image source={sucessImg} style={styles.image} />
 
       <Text style={styles.title}>Agradecemos o feedback!</Text>
 
-      <TouchableOpacity>
+      <TouchableOpacity style={styles.button}>
         <Text style={styles.buttonTitle}>Quero enviar outro</Text>
       </TouchableOpacity>
 
