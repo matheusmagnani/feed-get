@@ -12,13 +12,7 @@ Possibilitamos que o usuário escreva o que está acontecendo e também possa ti
 
 <p align="center" >
    
-<img src="https://user-images.githubusercontent.com/102997685/223524860-0f5f94a5-7c10-402e-8b15-7956ed2c27fd.png"
-     width="300"
-     /><img src="https://user-images.githubusercontent.com/102997685/223526706-b8bd2c16-9143-4bcb-9211-32a6042d100c.png"
-     width="300"
-     /><img src="https://user-images.githubusercontent.com/102997685/223526741-a3d1594a-9b63-45bd-b4e3-4cb32708b872.png"
-     width="300"
-     />
+<img src="https://user-images.githubusercontent.com/102997685/223533780-56f90722-e9f4-4f0d-9ec3-e783b3ce9125.png"/>
      
 </p>
 
