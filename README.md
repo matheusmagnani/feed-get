@@ -1,12 +1,13 @@
 <h1 align="center"> FeedGet </h1>
 
 <p align="end">
-<img src="https://user-images.githubusercontent.com/102997685/223522767-a025674d-193e-4a35-a397-e9de18b176cc.png"/>
+<img src="https://user-images.githubusercontent.com/102997685/223532501-6c99e674-c4ba-4c77-8a0a-1db035cc57f2.png"/>
 </p>
 
 ## Um Widget de Feedbacks apelidado de FeedGet. 
 
-Nele o usuário pode dar um feedback como (Problemas, Ideias ou outros).
+Um botão suspenço a página. </br>
+Nele o usuário pode dar um feedback como (Problemas, Ideias ou outros). </br>
 Possibilitamos que o usuário escreva o que está acontecendo e também possa tirar um screenshot para melhor entendimento do problema.
 
 <p align="center" >
