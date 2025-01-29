@@ -1,4 +1,4 @@
-<h1 align="center"> FeedGet </h1>
+<h1 align="center"> FeedGet Frontend </h1>
 
 <p align="end">
 <img src="https://user-images.githubusercontent.com/102997685/223532501-6c99e674-c4ba-4c77-8a0a-1db035cc57f2.png"/>
